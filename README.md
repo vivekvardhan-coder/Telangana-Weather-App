@@ -4,7 +4,8 @@
 ![Tech](https://img.shields.io/badge/Made%20with-HTML%2C%20CSS%2C%20JS-orange)  
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0CA5E9&width=700&lines=☁️+Real-time+Telangana+weather+with+forecast%2C+charts+%26+district+stats)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0CA5E9&width=1000&lines=☁️+Real-time+Telangana+weather+with+forecast%2C+charts+%26+district+stats)](https://git.io/typing-svg)
+
 
 ---
 
