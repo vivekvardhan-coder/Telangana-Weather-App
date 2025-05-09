@@ -40,7 +40,7 @@
 
 ## 🔗 Live Preview
 
-👉 [**View Telangana Weather App**]((https://telangana-weather.netlify.app/))  
+👉 [**View Telangana Weather App**](https://telangana-weather.netlify.app/)
 <!-- Replace with actual live URL (e.g., Vercel, Netlify, GitHub Pages) -->
 
 ---
